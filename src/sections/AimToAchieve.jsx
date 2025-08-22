@@ -11,7 +11,7 @@ import { BiBullseye } from "react-icons/bi";
 const AimToAchieve = () => {
   return (
     <>
-      <section className="w-full bg-[#101828] p-[50px]">
+      <section id="AimToAchieve" className="w-full bg-[#101828] p-[50px]">
         <h1 className="text-center pb-[10px] text-[2.9em] font-bold text-white">
           What We{" "}
           <span className="bg-gradient-to-r from-[#00dd78] to-[#2981ff] bg-clip-text text-transparent">
@@ -24,14 +24,19 @@ const AimToAchieve = () => {
           technology.
         </p>
 
-        <div className="w-full flex justify-center gap-[30px]">
+        <div
+          id="aim"
+          className="w-full my-10 grid justify-items-center gap-8 
+  lg:grid-cols-4 lg:gap-[30px] 
+  md:grid-cols-2 md:gap-x-[50px] md:gap-y-[30px] 
+  sm:grid-cols-1"
+        >
           <AchieveCard
             title="Technical Excellence"
             para="Foster a culture of continuous learning and technical mastery through hands-on projects and workshops."
           >
             {/* <TbBracketsAngle className="text-[#05cd6aff] text-[3em]" /> */}
             <PiBracketsAngleBold className="text-[#05cd6aff] text-[3em] mb-5" />
-            {/* <p className="text-[#05cd6aff] text-[3em] mb-5">&lt;&gt;</p> */}
           </AchieveCard>
           <AchieveCard
             title="Community Building"

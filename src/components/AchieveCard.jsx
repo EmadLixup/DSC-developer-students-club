@@ -1,6 +1,6 @@
 const AchieveCard = ({ title, para, children }) => {
   return (
-    <div className="bg-[#080c14ff] w-[270px] h-[300px] rounded-[15px] border border-[rgba(124,123,123,0.342)] box-border p-7 my-10">
+    <div className="bg-[#080c14ff] rounded-[15px] border border-[rgba(124,123,123,0.342)]  p-7 ">
       <div>{children}</div>
       <h2 className="text-white text-[1.2em] font-semibold my-[15px]">
         {title}
