@@ -86,7 +86,40 @@ dsc-developer-students-club/
 
 ---
 
-## 🤝 Contributing
+## 👥 Contributors
+
+Thanks to these amazing people for their contributions:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/rawan2088">
+        <img src="https://avatars.githubusercontent.com/u/166927241?s=96&v=4" width="70px;" style="border-radius:50%" alt="Rawan Ahmed"/>
+        <br /><sub><b>Rawan Ahmed</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/sohaila-walid">
+        <img src="https://avatars.githubusercontent.com/u/162761283?s=96&v=4" width="70px;" style="border-radius:50%" alt="Sohaila Walid"/>
+        <br /><sub><b>Sohaila Walid</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/malak-hisham">
+        <img src="https://avatars.githubusercontent.com/u/122965150?v=4" width="70px;" style="border-radius:50%" alt="Malak Hisham"/>
+        <br /><sub><b>Malak Hisham</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="/">
+        <img src="https://avatars.githubusercontent.com/u/113009997?v=4" width="70px;" style="border-radius:50% " alt="Fatma"/>
+        <br /><sub><b>Fatma</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
 
 Contributions are welcome!
 
